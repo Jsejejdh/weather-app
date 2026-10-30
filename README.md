@@ -1,5 +1,5 @@
 ﻿# weather-app
-# Weather Forecast App 🌤️
+# Weather Forecast App
 
 A Python desktop application that retrieves and displays **real-time weather data** with **automatic user location detection** and a clean, user-friendly interface.
 
@@ -9,12 +9,12 @@ Built as part of my internship at **Pinnacle Labs**.
 
 ## Features
 
-- 📍 **Automatic location detection** using IP geolocation
-- 🔍 **City search** to check the weather anywhere in the world
-- 🌡️ **Real-time weather data**: temperature, feels-like, humidity, wind speed
-- 📅 **Today's forecast**: high/low temperature and chance of rain
-- 🖥️ **Simple GUI** built with Tkinter
-- ⚡ **Responsive UI**: network calls run in background threads so the app never freezes
+**Automatic location detection** using IP geolocation
+**City search** to check the weather anywhere in the world
+**Real-time weather data**: temperature, feels-like, humidity, wind speed
+**Today's forecast**: high/low temperature and chance of rain
+**Simple GUI** built with Tkinter
+**Responsive UI**: network calls run in background threads so the app never freezes
 
 ## Tech Stack
 
